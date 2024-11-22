@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>
+		First Web Page
+	</title>
+</head>
+
+<body>
+	Hello World!
+</body>
+
+</html>
